@@ -7,6 +7,7 @@ public class TestGit {
         System.out.println("xxxxxxxxxxxxxxx");
         int a = 10;
         int b = 20;
+        System.out.println("idea 代码");
       
     }
 }
